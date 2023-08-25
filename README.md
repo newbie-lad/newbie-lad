@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @newbie-lad
 - interested in everything that makes day-to-day life better with some exceptions of digital commodities, such as data management and connecting with people of the same mindset; cars, automation, agro, farm, logistiscs, manufactura, making people worry less, helping to not waste time — maybe, overall: _mindfulness_
 - learning/using not-in-production: javascript, shell sl, mongodb, python; html-4, css-2, obviously; nn...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- looking to create things that others will find interesting at first and useful for years; for experience, good faith people, overall: prosper _(by doing what you love)_ and avoid stressing about; and, maybe, new challenges/prospects, trial-and-error, «we'll do this because it's cool» (i just hate everythnig that wastes time — coping is not a mechanism for growth)
+- i have experience in [graphical] design (how it works)
+
+we are here to make this place better, not to make a mess around
 
 <!---
 newbie-lad/newbie-lad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
