@@ -6,6 +6,11 @@
 
 we are here to make this place better, not to make a mess around
 
+### build your dreams, not someone else's self-delusions
+
+
+__
+
 <!---
 newbie-lad/newbie-lad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
